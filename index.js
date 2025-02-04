@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Made by Justyn Lam 👑", "big robux giveaway at 200 members", "thanks for the boost @preppy ", "Looking for status suggestions, dm justyn or ping him!", "balls", "hi everyone!!", "Listening to Joes Noms 🔥🔥", "minecraft roblox or val pick one", ".gg/SJDcUXCByP"];
+const statusMessages = ["Made by Justyn Lam 👑", "yall suck -wlven", "Looking for status suggestions, dm justyn or ping him!", "balls", "hi everyone!!", "Listening to Joes Noms 🔥🔥", "im a bot lol", ".gg/SJDcUXCByP"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
